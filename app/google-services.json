@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "925778793256",
+    "project_id": "mcclab-4c07a",
+    "storage_bucket": "mcclab-4c07a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925778793256:android:2f1ef4b6efc5f07418361d",
+        "android_client_info": {
+          "package_name": "com.example.mcclab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925778793256-fg37ka5dbrhnmv7ech1cj02tplkehm0n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgLcDBB8429HoSSFzK1L5Z1FeVAdALtUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925778793256-fg37ka5dbrhnmv7ech1cj02tplkehm0n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925778793256:android:aaf146c97568688b18361d",
+        "android_client_info": {
+          "package_name": "com.example.mcclabstorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925778793256-fg37ka5dbrhnmv7ech1cj02tplkehm0n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgLcDBB8429HoSSFzK1L5Z1FeVAdALtUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925778793256-fg37ka5dbrhnmv7ech1cj02tplkehm0n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
